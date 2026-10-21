@@ -1,6 +1,4 @@
-# power-bi-sales-profitability-analysis
-
-POWER BI PROJEKTPORTFOLIO zur Analyse von Umsatz, Profitabilität und Produktperformance auf Basis realitätsnaher Handelsdaten.
+Analyse von Umsatz, Profitabilität und Produktperformance auf Basis realitätsnaher Handelsdaten.
 
 • Aufbau eines Star-Schema-Datenmodells mit Fakt- und Dimensionstabellen.
 
