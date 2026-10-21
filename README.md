@@ -3,8 +3,11 @@
 POWER BI PROJEKTPORTFOLIO zur Analyse von Umsatz, Profitabilität und Produktperformance auf Basis realitätsnaher Handelsdaten.
 
 • Aufbau eines Star-Schema-Datenmodells mit Fakt- und Dimensionstabellen.
+
 • KPI-Definitionen und Entwicklung von DAX-Measures für Umsatz, Profitabilität, YoY- und YTD-Analysen sowie Trend- und Segmentauswertungen.
+
 • Gestaltung interaktiver Dashboard-Navigation (Slicer, Tooltips) für KPI-Monitoring und Management-Analysen.
+
 • ETL-Prozesse in Power Query (Datenbereinigung und Transformation).
 
 
